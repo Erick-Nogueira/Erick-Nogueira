@@ -10,6 +10,7 @@
 <div >
     <a href="https://github.com/Erick-Nogueira/Erick-Nogueira">
         <img width="500em"  src="https://github-readme-stats.vercel.app/api?username=Erick-Nogueira&show_icons=true&theme=dark" alt="">
+        <img width="280em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Nogueira&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
     </a>
    
 </div>  
@@ -24,8 +25,8 @@
   <img align="center" alt="Erick-boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Erick-boot" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />     
 <div>
-<hr>
-<div>
+    <h2>Redes Sociais</h2>
+<div style="display: inline_block">
     <a href="mailto:erick.cazalladev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.instagram.com/erick.nogueira.921/">
@@ -37,3 +38,4 @@
     <a href="https://wa.me/5511996729694">   
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </div>
+    
