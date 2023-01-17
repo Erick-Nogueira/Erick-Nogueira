@@ -9,9 +9,8 @@
 <div>
     <a href="https://github.com/Erick-Nogueira/Erick-Nogueira">
         <img width="500em"  src="https://github-readme-stats.vercel.app/api?username=Erick-Nogueira&show_icons=true&theme=dark" alt="">
-        <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Nogueira&layout=compact&)](https://github.com/anuraghazra/github-readme-stats"/>
+        <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Nogueira&layout=compact&theme=dark"> 
     </a>
-   
 </div>  
     
 <div style="display: inline_block" src="https://github.com/Erick-Nogueira/Erick-Nogueira"><br>
